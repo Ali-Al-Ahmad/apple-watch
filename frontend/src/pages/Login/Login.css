@@ -1,0 +1,6 @@
+.register-page form p {
+  justify-self: flex-start;
+  width: 100%;
+  font-size: 0.8em;
+  margin-top: 5px;
+}
