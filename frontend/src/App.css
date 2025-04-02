@@ -3,3 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --primary: rgb(70, 176, 141);
+  --darker-primary: rgb(47, 136, 106);
+  --white-grey: #e8e8e8;
+  --text-color: #333333;
+  --border-color: #ccc;
+}
+
+body {
+  background-color: #f7f7f7;
+}
