@@ -44,4 +44,9 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
         ];
     }
+
+    public function healthMetrics()
+    {
+        return $this->hasMany(HealthMetric::class);
+    }
 }
