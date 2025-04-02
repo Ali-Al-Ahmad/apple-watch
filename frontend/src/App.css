@@ -7,6 +7,8 @@
 :root {
   --primary: rgb(70, 176, 141);
   --darker-primary: rgb(47, 136, 106);
+    --secondary: #3788df; 
+  --darker-secondary: #136dcc;
   --white-grey: #e8e8e8;
   --text-color: #333333;
   --border-color: #ccc;
